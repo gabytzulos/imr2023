@@ -2,4 +2,4 @@
 
 Video: https://youtu.be/uDYJZEf_Rxw
 
-Pentru a face unwrap, am urmarit tutorialul: 
+Pentru a face unwrap, am urmarit tutorialul: https://www.youtube.com/watch?v=yVQyTophhac
